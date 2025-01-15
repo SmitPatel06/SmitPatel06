@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hello! I'm Smit Patel, a Computer Engineering graduate currently pursuing my Master's in Computer Science at Lakehead University. I’m passionate about creating dynamic and user-friendly web experiences, blending technology with creativity.
 
-<!--
-**SmitPatel06/SmitPatel06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current Focus:
 
-Here are some ideas to get you started:
+Building responsive and scalable web applications.
+Exploring the latest trends and tools in web development.
+🌱 Always Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Staying updated with cutting-edge web technologies.
+Experimenting with frameworks and libraries to enhance user experiences.
+💬 Let's Connect:
+
+Open to collaborating on web development projects or discussing innovative ideas!
